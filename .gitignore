@@ -1,0 +1,88 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & testing
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+
+# ===== Playwright =====
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+screenshots/
+videos/
+
+# ===== Behave / BDD =====
+reports/
+
+# ===== Allure Reporting =====
+allure-results/
+allure-report/
+allure-results.zip
+allure-report.zip
+
+# ===== Test Artifacts =====
+Logs/
+Downloads/
+visual_actual/
+visual_diff/
+current_log_path.txt
+
+# ===== Environment & Secrets =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ===== IDE & Editors =====
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ===== OS Artifacts =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ===== Misc =====
+*.log
+*.tmp
+*.bak
