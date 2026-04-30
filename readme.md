@@ -69,3 +69,9 @@ Below is real execution evidence of the framework running successfully in a Jenk
 This confirms that the automation framework is CI-ready, stable, and fully integrated with Jenkins.
 
 <img width="1416" height="471" alt="image" src="https://github.com/user-attachments/assets/650e4cc1-6f04-4b19-8119-be6cfcc94c49" />
+<br><br>
+
+
+Allure Report published as expected in GitHub Pages ✅
+<img width="1717" height="978" alt="image" src="https://github.com/user-attachments/assets/a14c7b02-7692-4347-9621-06117a09754b" />
+<br><br>
