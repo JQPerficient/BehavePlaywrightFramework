@@ -73,5 +73,6 @@ This confirms that the automation framework is CI-ready, stable, and fully integ
 
 
 Allure Report published as expected in GitHub Pages ✅
+
 <img width="1717" height="978" alt="image" src="https://github.com/user-attachments/assets/a14c7b02-7692-4347-9621-06117a09754b" />
 <br><br>
